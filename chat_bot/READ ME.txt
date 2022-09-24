@@ -1,0 +1,9 @@
+
+------------------------------------------------------
+Chat Bot Spamer
+------------------------------------------------------
+1.- Instala Pyautogui.
+2.- Modifica el archivo llamado "mensaje".
+3.-Agrega un número telefonico en la parte que dice"CodigoNúmero"
+4.- Ejecutalo
+
